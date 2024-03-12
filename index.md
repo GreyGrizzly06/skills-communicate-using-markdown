@@ -3,3 +3,8 @@
 ### Still better than HTML
 
 ![Image of WelcomeToCat](https://octodex.github.com/images/welcometocat.png)
+
+```python
+my_string = "Hello, World!"
+print(my_string)
+```
