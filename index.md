@@ -8,3 +8,7 @@
 my_string = "Hello, World!"
 print(my_string)
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
